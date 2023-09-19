@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kailash1198
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning javascript.
+- 👀 I’m interested in Coding and solve real world problem using my own skills.
+- 🌱 I’m currently studying about robotics engineer.
 - 💞️ I’m looking to collaborate on Web devlopment.
 - 📫 How to reach me : Twitter - @kailashktwt
 
