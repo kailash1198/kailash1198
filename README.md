@@ -7,6 +7,10 @@
   --- CURRENTRLY WORKING AND LEARNING ON ---
   1. c++ opps
   2. DSA
+  3. Python
+  4. Cloud computing
+  5. git & github
+
 
 <!---
 kailash1198/kailash1198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
