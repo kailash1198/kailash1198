@@ -8,16 +8,16 @@
 
 📚 My Tech Stack:
 
-C++ (OOP)
-Data Structures & Algorithms (DSA)
-C
-Javascript
-HTML&CSS
-mySQL
-SQL
-PHP
-Python
-Cloud Computing
+C++ (OOP),
+Data Structures & Algorithms (DSA),
+C,
+Javascript,
+HTML&CSS,
+mySQL,
+SQL,
+PHP,
+Python,
+Cloud Computing,
 Git & GitHub
 🌐 Let’s Connect: Feel free to reach out to me on Twitter @kailashktwt. I’m always open to new connections and collaborations!
 
